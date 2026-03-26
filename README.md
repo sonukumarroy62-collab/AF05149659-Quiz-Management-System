@@ -7,6 +7,8 @@ The Quiz Management System is a console-based Java application that allows users
 📚 Questions stored and fetched from database
 🔁 Multiple questions with options
 🧾 Display final result after quiz completion
+
+
 🛠️ Tech Stack
 Language: Java
 Database: MySQL
@@ -14,7 +16,8 @@ Connectivity: JDBC
 IDE: Eclipse / IntelliJ
 📁 Project Structure
 QuizManagementSystem/
-│
+
+
 ├── src/com/app/
 │   ├── DBConnection.java
 │   ├── Question.java
